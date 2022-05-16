@@ -1,2 +1,2 @@
 # Miscellaneous
-Collection of mini-work to understand deep learning
+Collection of class assignments and mini-project to understand deep learning
