@@ -1,2 +1,2 @@
 # Deep Learning Projects
-Collection of class assignments and mini-project to understand deep learning
+Collection of project to understand deep learning
